@@ -1,0 +1,36 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "mode": "NULLABLE",
+                "name": "customerName",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "itemNo",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "itemPrice",
+                "type": "NUMERIC"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "itemQuantity",
+                "type": "NUMERIC"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "purchaseAmount",
+                "type": "NUMERIC"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "insertDateTime",
+                "type": "TIMESTAMP"
+            }
+        ]
+    }
+}
